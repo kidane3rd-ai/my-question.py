@@ -1,0 +1,8 @@
+What is the largest country in the world?,china,japan,Russia,canada,3
+What is the capital of France?,berne,sydney,tokyo,Paris,4
+How many continents are there?,eight,seven,four,six,2
+What color do you get by mixing blue and yellow?,green,purple,brown,gray,1
+Which fruit is known for being yellow and curved?,melon,straberry,banan,rasberry,3
+What do bees make?,honey,cheese,milk,meat,1
+What is the most popular food in America?,chips,pizza,hamburger,icecreame,3
+What is the heaviest animal in the world?,elephant,Blue Whale,pig,hamster,2
